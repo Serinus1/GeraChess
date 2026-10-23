@@ -38,7 +38,7 @@
 		<PackageReadmeFile>README_NUGET.md</PackageReadmeFile>
 		<RepositoryUrl>https://github.com/Serinus1/GeraChess</RepositoryUrl>
 		<PackageTags>chess;chessboard;chess-game;chess-position;standard-algebraic-notation;chess-move;forsyth-edwards-notation;chess-validator;chess-variations</PackageTags>
-								<PackageReleaseNotes>1-0, 0-1, and draws are accepted as valid moves</PackageReleaseNotes>
+								<PackageReleaseNotes>Updated dependencies</PackageReleaseNotes>
 		<PackageIcon>knight.png</PackageIcon>
 		<PackageId>Serinus1.Chess</PackageId>
 		<PackageLicenseFile>LICENSE.md</PackageLicenseFile>
